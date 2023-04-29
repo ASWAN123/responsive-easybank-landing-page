@@ -3,7 +3,7 @@ import React from "react";
 function Section2() {
 
   return (
-    <div className="w-full  bg-[#F3F4F6] flex flex-col items-center  md:items-start gap-6 py-6  ">
+    <div className="w-full  bg-[#F3F4F6] flex flex-col items-center  md:items-start gap-6 py-6   static  ">
       <div className=" w-4/5 m-auto flex flex-col items-center  md:items-start gap-4  p-6 ">
         <h2 className="text-[25px] font-normal text-center md:text-start">Why choose Easybank?</h2>
         <p className="text-[14px] text-gray-400 text-center md:text-start ">

@@ -4,11 +4,11 @@ import { IoClose } from 'react-icons/io5';
 
 
 function Menu() {
-  const [showMenu ,  setShowMenu] = useState(true)
+  const [showMenu ,  setShowMenu] = useState(false)
 
   return (
-    <div className='bg-white w-full  sticky z-[99] '>
-      <div className='w-[90%] md:w-4/5 m-auto flex justify-between items-center px-1 py-6  md:px-6 md:py-0  '>
+    <div className='bg-white w-full  sticky z-[999] '>
+      <div className='w-[90%] md:w-4/5 m-auto flex justify-between items-center px-1 py-6  md:px- md:py-0  '>
           <img src="./images/logo.svg" alt="" />
           { !showMenu && <button onClick={()=> {setShowMenu(true)}} ><RxHamburgerMenu size={25} className=' md:hidden cursor-pointer '  /></button> } 
           { showMenu && <button onClick={()=> {setShowMenu(false)}} ><IoClose size={25} className=' md:hidden cursor-pointer '  /></button> }
