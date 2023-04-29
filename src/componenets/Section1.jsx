@@ -4,7 +4,7 @@ function Section1() {
   return (
     <div className='w-full min-h-screen max-h-screen md:min-h-[600px] md:max-h-[600px] bg-[#FAFAFA] relative flex overflow-hidden gap-6'>
         <div className='w-4/5 m-auto flex   flex-col-reverse md:flex-row items-center pb-6 gap-2 md:p-6 '>
-            <div className='flex flex-col items-center text-center md:text-start md:items-start gap-6 md:w-[40%] mt-[60%] md:mt-0 '>
+            <div className='flex flex-col items-center text-center md:text-start md:items-start gap-6 md:w-[40%] -mb-[60%] md:mb-auto '>
                 <h1 className='text-[30px] md:text-[50px] font-normal '>Next generation digital banking</h1>
                 <p className='text-gray-500'>Take your financial life online. Your Easybank account will be a one-stop-shop 
                 for spending, saving, budgeting, investing, and much more.
