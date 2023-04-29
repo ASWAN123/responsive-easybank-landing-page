@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/responsive-easybank-landing-page/static/css/main.31096e63.css",
-    "main.js": "/responsive-easybank-landing-page/static/js/main.0733429b.js",
+    "main.css": "/responsive-easybank-landing-page/static/css/main.1e6c1720.css",
+    "main.js": "/responsive-easybank-landing-page/static/js/main.13979f92.js",
     "index.html": "/responsive-easybank-landing-page/index.html",
-    "main.31096e63.css.map": "/responsive-easybank-landing-page/static/css/main.31096e63.css.map",
-    "main.0733429b.js.map": "/responsive-easybank-landing-page/static/js/main.0733429b.js.map"
+    "main.1e6c1720.css.map": "/responsive-easybank-landing-page/static/css/main.1e6c1720.css.map",
+    "main.13979f92.js.map": "/responsive-easybank-landing-page/static/js/main.13979f92.js.map"
   },
   "entrypoints": [
-    "static/css/main.31096e63.css",
-    "static/js/main.0733429b.js"
+    "static/css/main.1e6c1720.css",
+    "static/js/main.13979f92.js"
   ]
 }
