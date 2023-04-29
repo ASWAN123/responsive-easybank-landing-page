@@ -7,7 +7,7 @@ import Section3 from "./componenets/Section3";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App max-w-7xl m-auto">
       <Menu />
       <Section1 />
       <Section2 />
