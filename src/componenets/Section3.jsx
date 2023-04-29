@@ -9,7 +9,7 @@ function Section3() {
         <div className="flex flex-col md:flex-row gap-6 ">
 
           <div className="flex  flex-col gap-2 bg-white  rounded-t-lg  ">
-            <img className="h-[150px] rounded-t-lg" src="./images/image-currency.jpg" alt="" />
+            <img className="h-[200px] md:h-[150px] rounded-t-lg" src="./images/image-currency.jpg" alt="" />
             <div className="flex flex-col gap-2 p-4 ">
               <span className="text-gray-400 text-[12px]">By Claire Robinson</span>
               
@@ -22,7 +22,7 @@ function Section3() {
             </div>
           </div>
           <div className="flex  flex-col gap-2 bg-white rounded-t-lg">
-            <img className="h-[150px] rounded-t-lg" src="./images/image-restaurant.jpg" alt="" />
+            <img className="h-[200px] md:h-[150px] rounded-t-lg" src="./images/image-restaurant.jpg" alt="" />
             <div className="flex flex-col gap-2 p-2">
               <span className="text-gray-400 text-[12px]">By Wilson Hutton</span>
               
@@ -35,7 +35,7 @@ function Section3() {
             </div>
           </div>
           <div className="flex  flex-col gap-2 bg-white rounded-t-lg ">
-            <img className="h-[150px] rounded-t-lg" src="./images/image-plane.jpg" alt="" />
+            <img className="h-[200px] md:h-[150px] rounded-t-lg" src="./images/image-plane.jpg" alt="" />
             <div className="flex flex-col gap-2 p-2">
               <span className="text-gray-400 text-[12px]">By Wilson Hutton</span>
              
@@ -48,7 +48,7 @@ function Section3() {
             </div>
           </div>
           <div className="flex  flex-col gap-2 bg-white rounded-t-lg ">
-            <img className="h-[150px] rounded-t-lg " src="/images/image-confetti.jpg" alt="" />
+            <img className="h-[200px] md:h-[150px] rounded-t-lg " src="/images/image-confetti.jpg" alt="" />
             <div className="flex flex-col gap-2 p-2">
               <span className="text-gray-400 text-[12px]">By Claire Robinson</span>
               
